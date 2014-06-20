@@ -1,0 +1,10 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="enchantment_background">#363b3b</color>
+    <color name="enchantment_foreground">#f86a00</color>
+    <color name="enchantment_foreground_darker">#d25900</color>
+    <color name="enchantment_text">#FFFFFF</color>
+    <color name="enchantment_text_darker">#BBBBBB</color>
+
+</resources>

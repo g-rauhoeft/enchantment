@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="net.lunareffect.enchantment.Enchantment" >
+
+    <FrameLayout
+        android:id="@+id/main_content"
+        style="@style/AppTheme"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/enchantment_background" >
+
+    </FrameLayout>
+
+</FrameLayout>
