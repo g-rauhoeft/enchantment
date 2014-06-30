@@ -1240,13 +1240,14 @@ containing a value of this type.
         public static final int abc_search_view=0x7f030016;
         public static final int abc_simple_decor=0x7f030017;
         public static final int activity_enchantment=0x7f030018;
-        public static final int book_chooser_fragment=0x7f030019;
-        public static final int book_list_item=0x7f03001a;
-        public static final int large_text_fragment=0x7f03001b;
-        public static final int loading_screen_fragment=0x7f03001c;
-        public static final int page_view=0x7f03001d;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001e;
-        public static final int video_view_fragment=0x7f03001f;
+        public static final int audio_player=0x7f030019;
+        public static final int book_chooser_fragment=0x7f03001a;
+        public static final int book_list_item=0x7f03001b;
+        public static final int large_text_fragment=0x7f03001c;
+        public static final int loading_screen_fragment=0x7f03001d;
+        public static final int page_view=0x7f03001e;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001f;
+        public static final int video_view_fragment=0x7f030020;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
